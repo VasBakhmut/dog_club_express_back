@@ -1,0 +1,4 @@
+-- SQLite
+CREATE TABLE products(
+id INTEGER PRIMARY KEY,
+text TEXT);
